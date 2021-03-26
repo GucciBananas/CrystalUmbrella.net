@@ -1,2 +1,2 @@
-Szymon B.|Random drawing machine}https://github.com/GucciBananas/Random-drawing-machine/raw/main/`Random drawing machine.exe'New!,GREEN;
+Szymon B.|Random drawing machine}https://github.com/GucciBananas/Random-drawing-machine/raw/main/`Random drawing machine.exe'Not ready yet,YELLOW;
 Szymon B. Mikołaj Ś.|Watch the World}https://github.com/GucciBananas/Watch-the-World/raw/main/`Watch the World.exe'Coming soon!,YELLOW;
