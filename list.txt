@@ -1,3 +1,3 @@
 Szymon B.|Random drawing machine}https://github.com/GucciBananas/Random-drawing-machine/raw/main/`Random drawing machine.exe'Not ready yet,YELLOW;
 Szymon B. Mikołaj Ś.|Watch the World}https://github.com/GucciBananas/Watch-the-World/raw/main/`Watch the World.exe'Coming soon!,YELLOW;
-?|?}https://github.com/GucciBananas/10h/raw/main/`10h.png',GREEN;
+Szymon B.|10h}https://github.com/GucciBananas/10h/raw/main/`10h.png'New!,GREEN;
