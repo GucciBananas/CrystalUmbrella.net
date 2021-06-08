@@ -1,2 +1,2 @@
 Szymon B.|10h}https://github.com/GucciBananas/10h/raw/main/`10h.png',GREEN;
-Szymon B.|Logic}https://github.com/GucciBananas/Logic/raw/main/`.exe',YELOW;
+Szymon B.|Logic}https://github.com/GucciBananas/Logic/raw/main/`.exe'Working on it!,YELOW;
