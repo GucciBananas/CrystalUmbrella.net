@@ -1,3 +1,3 @@
 Szymon B.|10h}https://github.com/GucciBananas/10h/raw/main/`10h.png',GREEN;
-Szymon B.|Quick File Transfer}https://github.com/GucciBananas/Quick-File-Transfer/raw/main/`Quick File Transfer.exe',GREEN;
+Szymon B.|Quick File Transfer}https://github.com/GucciBananas/Quick-File-Transfer/raw/main/`Quick File Transfer.exe'New!,GREEN;
 Szymon B.|Logic}https://github.com/GucciBananas/Logic/raw/main/`Logic.exe'Working on it!,YELLOW;
